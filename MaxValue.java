@@ -9,6 +9,7 @@ public class MaxValue {
             }
     
         }
+        System.out.println(maxValue);
         
 
     }
