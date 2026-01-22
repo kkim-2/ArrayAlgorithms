@@ -1,6 +1,6 @@
 public class Duplicate {
     public static void main(String[] args) {
-        String [] classes = {"History", "Math","Gym", "English", "Art", "ComputerScience","Chemistry","Chemistry","French"};
+        String [] classes = {"History", "Math","Gym", "English", "Art", "ComputerScience","Chemistry","French"};
         System.out.println(duplicate(classes));
         
     }
